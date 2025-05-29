@@ -1,0 +1,15 @@
+[
+  "if",
+  "elif",
+  "else",
+  "while",
+  "for",
+  "try",
+  "except",
+  "finally",
+  "with",
+  "def",
+  "class",
+  "async def",
+  "async with"
+]
